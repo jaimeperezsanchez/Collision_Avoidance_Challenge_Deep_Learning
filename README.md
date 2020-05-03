@@ -1,4 +1,5 @@
-# Collision Avoidance Challenge
+# Collision Avoidance Challenge (2019)
+### Deep Learning Approach
 #### Comptetition organized by European Space Agency (ESA)
 [Link to competition](https://kelvins.esa.int/collision-avoidance-challenge/home/)
 

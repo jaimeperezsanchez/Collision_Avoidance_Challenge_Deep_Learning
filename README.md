@@ -9,6 +9,13 @@ In this challenge, you are tasked to build a model to predict the final collisio
 
 Project developed with [Sergio Pérez][1]
 
+#### Deep Learning Approaches
+* Fully Connected Network
+* Convolutional Neural Networks
+* Recurrent Neural Networks
+* Autoecoder Network
+* Siamese Network (Manhattan LSTM)
+
 [1]: https://github.com/spmorillo
 
 
